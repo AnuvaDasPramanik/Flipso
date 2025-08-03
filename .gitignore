@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MicrosoftAzureLearning/FlipsoEcom/FlipsoEcom.csproj
+/MicrosoftAzureLearning/FlipsoEcom/FlipsoEcom.sln
+/MicrosoftAzureLearning/FlipsoEcom/FlipsoEcom.csproj
+
+## Visual Studio workspace / indexing files
+.vs/
+**/*.vsidx
