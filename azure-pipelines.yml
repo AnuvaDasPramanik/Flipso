@@ -34,7 +34,7 @@ steps:
 
 - task: AzureWebApp@1
   inputs:
-    azureSubscription: 'Azure subscription 1 (b03d8a39-ed0a-40d6-90bd-878f24a928ca)'
+    azureSubscription: 'Azure subscription 1'
     appType: 'webApp'
     appName: 'Flipso-sc'
     package: '$(Build.ArtifactStagingDirectory)/**/*.zip'
